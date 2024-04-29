@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408497268710",
+    "project_id": "constactapp",
+    "storage_bucket": "constactapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408497268710:android:1762218d50688f3edb1827",
+        "android_client_info": {
+          "package_name": "com.pdp.contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpJu78y-qW7UYns1RmXQmgR5jNCVQf1iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
